@@ -1,0 +1,24 @@
+﻿{
+  "session": {
+    "sessionId": "SessionId.5efbc792-5fe2-4f83-aa20-9dbd79c0d3ce",
+    "application": {
+      "applicationId": "amzn1.ask.skill.78e9781b-8c4a-4ab9-a82c-32402f69a1a5"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AaWMRFU7KIBZO3I4DZJZY524X72DMLES5CNED53ZV4ZGSGD44O5HXZ4BN24RFRDAK2RGYDMXSKGRPZQV4LYTJ2R374MUOZBOD2ASOXADY5LCKSAW23MZ7GTUX5CPK3R6OVWLX6XR2WLTXRBEJRSO7IDFD5PQLGSE75ZIWQBXYUZDKHOG5PYIT62VVYXH2AYRHE5H5CQ"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.798015be-5d44-45d8-92ed-1443d7b4cb61",
+    "locale": "en-US",
+    "timestamp": "2017-02-20T17:52:40Z",
+    "intent": {
+      "name": "WordOfTheDayIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
