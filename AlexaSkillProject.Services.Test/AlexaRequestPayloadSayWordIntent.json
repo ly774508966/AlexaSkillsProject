@@ -1,0 +1,29 @@
+﻿{
+  "session": {
+    "sessionId": "SessionId.98622375-ba8d-4f86-9024-be1a6ae694fb",
+    "application": {
+      "applicationId": "amzn1.ask.skill.78e9781b-8c4a-4ab9-a82c-32402f69a1a5"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFJ6DB7V7FWMRFU7KIBZO3I4DZJZY524X72DMLES5CNED53ZV4ZGSGD44O5HXZ4BN24RFRDAK2RGYDMXSKGRPZQV4LYTJ2R374MUOZBOD2ASOXADY5LCKSAW23MZ7GTUX5CPK3R6OVWLX6XR2WLTXRBEJRSO7IDFD5PQLGSE75ZIWQBXYUZDKHOG5PYIT62VVYXH2AYRHE5H5CQ"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.a2a59fbb-79a8-47a0-90b5-7e6f888bf69f",
+    "locale": "en-US",
+    "timestamp": "2017-02-21T19:30:01Z",
+    "intent": {
+      "name": "SayWordIntent",
+      "slots": {
+        "Word": {
+          "name": "Word",
+          "value": "test"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
